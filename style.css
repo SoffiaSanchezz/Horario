@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+body {
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table {
+    width: 90%;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+th,td {
+    border: 2px solid #ddd;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: rgba(238, 130, 238, 0.541);
+    border: 10px purple;
+}
